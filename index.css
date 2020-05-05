@@ -59,7 +59,7 @@
   height: 25vw;
   border-radius: 50%;
   background-image: url(images/washhandvir.png);
-  background-color: rgb(52, 87, 178, 0.1);
+  background-color: rgb(188, 58, 128, 0.1);
   top: 15vh;
   left: 30vw;
   z-index: -1;
@@ -94,9 +94,9 @@
   height: 25vw;
   border-radius: 50%;
   background-image: url(images/gendervir.png);
-  background-color: rgb(52, 87, 178, 0.1);
-  top: 35vh;
-  left: 10vw;
+  background-color: rgb(188, 58, 128, 0.1);
+  top: 0vh;
+  right: 0vw;
   z-index: -1;
 }
 
