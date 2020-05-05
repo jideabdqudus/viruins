@@ -14,7 +14,7 @@
 }
 
 .home-main-section .lady-image {
-  background-image: url(images/xvirns.png);
+  background-image: url(images/xviruins.png);
   flex-grow: 1;
   max-height: 70vh;
   min-width: 30vw;
@@ -53,11 +53,9 @@
 
 .home-page-circle-2 {
   position: absolute;
-  width: 25vw;
-  height: 25vw;
-  border-radius: 50%;
-  background-image: url(images/washhandvir.png);
-  background-color: rgb(188, 58, 128, 0.1);
+  width: 5vw;
+  height: 5vw;
+  border-radius: 100%;
   top: 15vh;
   left: 30vw;
   z-index: -1;
@@ -66,8 +64,8 @@
 .home-page-circle-3 {
   position: absolute;
   overflow: hidden;
-  width: 25vw;
-  height: 25vw;
+  width: 5vw;
+  height: 5vw;
   bottom: 0;
   right: 0;
   z-index: -1;
@@ -75,13 +73,21 @@
 
 .home-page-circle-4 {
   position: absolute;
-  width: 25vw;
-  height: 25vw;
-  border-radius: 50%;
-  background-image: url(images/gendervir.png);
-  background-color: rgb(188, 58, 128, 0.1);
+  width: 5vw;
+  height: 5vw;
+  border-radius: 100%;
   top: 0vh;
   right: 0vw;
+  z-index: -1;
+}
+
+.home-page-circle-5 {
+  position: absolute;
+  width: 5vw;
+  height: 5vw;
+  border-radius: 100%;
+  top: 40vh;
+  right: 40vw;
   z-index: -1;
 }
 
@@ -92,7 +98,5 @@
   position: absolute;
   height: 100%;
   width: 100%;
-  border-radius: 50%;
-  background-image: url(images/polyvir.png);
-  background-color: rgb(52, 87, 178, 0.1);
+  border-radius: 100%;
 }
