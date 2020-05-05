@@ -14,7 +14,7 @@
 }
 
 .home-main-section .lady-image {
-  background-image: url(images/xvins.png);
+  background-image: url(images/xviruins.png);
   flex-grow: 1;
   max-height: 70vh;
   min-width: 30vw;
@@ -68,27 +68,14 @@
 .home-page-circle-3 {
   position: absolute;
   overflow: hidden;
-  width: 45vw;
-  height: 45vw;
+  width: 25vw;
+  height: 25vw;
   bottom: 0;
   right: 0;
   z-index: -1;
 }
 
-
 .home-page-circle-4 {
-  position: absolute;
-  width: 25vw;
-  height: 25vw;
-  border-radius: 50%;
-  background-image: url(images/polyvir.png);
-  background-color: rgb(188, 58, 128, 0.1);
-  bottom: 25vw;
-  left: 5vw;
-  z-index: -1;
-}
-
-.home-page-circle-5 {
   position: absolute;
   width: 25vw;
   height: 25vw;
@@ -108,6 +95,6 @@
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-image: url(images/sanitizera.png);
+  background-image: url(images/polyvir.png);
   background-color: rgb(52, 87, 178, 0.1);
 }
