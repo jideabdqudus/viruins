@@ -14,7 +14,7 @@
 }
 
 .home-main-section .lady-image {
-  background-image: url(images/Screen.png);
+  background-image: url(images/xviruins.png);
   flex-grow: 1;
   max-height: 70vh;
   min-width: 30vw;
@@ -77,8 +77,9 @@
   content: "";
   transform: translate(40%, 40%);
   position: absolute;
-  height: 100%;
-  width: 100%;
+  height: 20%;
+  width: 20%;
   border-radius: 50%;
-  background-color: rgb(52, 87, 178, 0.1);
+  background-image: url(images/sanitizera.png)
+  /*background-color: rgb(52, 87, 178, 0.1)*/;
 }
