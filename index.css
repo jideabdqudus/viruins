@@ -21,6 +21,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom left;
+  margin-bottom: 20px;
 }
 
 .home-main-section .call-to-action {
@@ -86,8 +87,8 @@
   width: 10vw;
   height: 10vw;
   border-radius: 100%;
-  top: 40vh;
-  right: 40vw;
+  top: 75vh;
+  right: 50vw;
   z-index: -1;
 }
 
@@ -97,7 +98,7 @@
   height: 5vw;
   border-radius: 100%;
   top: 20vh;
-  right: 20vw;
+  right: 33vw;
   z-index: -1;
 }
 
@@ -106,7 +107,7 @@
   width: 5vw;
   height: 5vw;
   border-radius: 100%;
-  bottom: 15vw;
+  bottom: 35vw;
   left: 15vw;
   z-index: -1;
 }
@@ -117,7 +118,7 @@
   height: 5vw;
   border-radius: 100%;
   top: 60vh;
-  left: 10vw;
+  right: 10vw;
   z-index: -1;
 }
 
